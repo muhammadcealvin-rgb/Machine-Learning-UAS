@@ -1,0 +1,5 @@
+strategy,roc_auc_mean,roc_auc_std,leak_free
+Median per kelas (oracle/LEAKY - jangan dipakai),0.9446376659678547,0.015252189462428638,False
+SimpleImputer median (global),0.8261579315164221,0.019509786888177606,True
+KNN Imputer (k=5),0.8353046820405312,0.020108223232280974,True
+Iterative Imputer,0.8302728860936408,0.01501316114357167,True
