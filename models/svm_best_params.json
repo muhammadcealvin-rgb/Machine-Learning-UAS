@@ -1,0 +1,6 @@
+{
+  "use_smote": false,
+  "class_weight": null,
+  "C": 12.871196270622494,
+  "gamma": 0.0011684631170929295
+}
