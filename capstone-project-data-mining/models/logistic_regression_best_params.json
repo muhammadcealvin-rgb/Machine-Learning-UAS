@@ -1,5 +1,0 @@
-{
-  "use_smote": false,
-  "class_weight": "balanced",
-  "C": 0.10369687306951698
-}
