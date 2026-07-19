@@ -136,4 +136,4 @@ profesional.
 
 ## 👤 Author
 
-`<isi nama & NIM>` — Fakultas Ilmu Komputer, Universitas Dian Nuswantoro
+Muhammad Cealvin_A11.2024.16020 — Fakultas Ilmu Komputer, Universitas Dian Nuswantoro
